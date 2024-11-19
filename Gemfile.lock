@@ -5,7 +5,7 @@ PATH
       arel-helpers
       bcrypt
       deepsort
-      forestadmin-jsonapi-serializers (>= 0.14.0)
+      forestadmin-jsonapi-serializers (= 2.0.0.pre.beta.2)
       groupdate (>= 5.0.0)
       httparty
       ipaddress
@@ -267,7 +267,7 @@ DEPENDENCIES
   byebug
   deepsort
   forest_liana!
-  forestadmin-jsonapi-serializers
+  forestadmin-jsonapi-serializers (= 2.0.0.pre.beta.2)
   groupdate (= 5.2.2)
   httparty (= 0.18.1)
   ipaddress (= 0.8.3)
